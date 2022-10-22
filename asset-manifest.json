@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Alexander-Krokhmal/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/Alexander-Krokhmal/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.css": "/Alexander-Krokhmal/goit-react-hw-01-components/static/css/main.26627409.css",
+    "main.js": "/Alexander-Krokhmal/goit-react-hw-01-components/static/js/main.23d6ed0e.js",
     "index.html": "/Alexander-Krokhmal/goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/Alexander-Krokhmal/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Alexander-Krokhmal/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.26627409.css.map": "/Alexander-Krokhmal/goit-react-hw-01-components/static/css/main.26627409.css.map",
+    "main.23d6ed0e.js.map": "/Alexander-Krokhmal/goit-react-hw-01-components/static/js/main.23d6ed0e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.26627409.css",
+    "static/js/main.23d6ed0e.js"
   ]
 }
