@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Alexander-Krokhmal/goit-react-hw-01-components/static/css/main.cfd99a58.css",
-    "main.js": "/Alexander-Krokhmal/goit-react-hw-01-components/static/js/main.0d57a59a.js",
-    "index.html": "/Alexander-Krokhmal/goit-react-hw-01-components/index.html",
-    "main.cfd99a58.css.map": "/Alexander-Krokhmal/goit-react-hw-01-components/static/css/main.cfd99a58.css.map",
-    "main.0d57a59a.js.map": "/Alexander-Krokhmal/goit-react-hw-01-components/static/js/main.0d57a59a.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.cfd99a58.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.0d57a59a.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.cfd99a58.css.map": "/goit-react-hw-01-components/static/css/main.cfd99a58.css.map",
+    "main.0d57a59a.js.map": "/goit-react-hw-01-components/static/js/main.0d57a59a.js.map"
   },
   "entrypoints": [
     "static/css/main.cfd99a58.css",
